@@ -70,7 +70,7 @@ nav ul li a:hover::after{
 }
 /* - - - - - -about- - - - - - - - - - */
 #about{
-    padding: 80px 0;
+    padding: 80px;
     color: #ababab;
 }
 .row{
